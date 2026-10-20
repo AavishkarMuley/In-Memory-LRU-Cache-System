@@ -3,7 +3,6 @@
 ![C++](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-Doubly%20Linked%20List%20%7C%20HashMap-orange?style=for-the-badge)
 ![Storage](https://img.shields.io/badge/Storage-File%20I%2FO-blueviolet?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 A console-based Spotify playback queue and playlist management engine implemented in C++. Built using a Doubly Linked List and Hash Map Indexing, it provides smooth track traversal, duplicate prevention, song search, persistent file storage, and a dynamic ad-injection simulation.
 
